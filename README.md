@@ -43,8 +43,8 @@ quote,author
 ## Link and Screenshots
 It would be helpful if you could follow the account.<br>
 https://x.com/Quotessence_ <br><br>
-![screenshot1](screenshot1.jpg)<br>
-![screenshot2](screenshot2.jpg)
+![screenshot1](screenshot1.png)<br>
+![screenshot2](screenshot2.png)
 
 
 ##### Worked on this as part of a module project from Dr. Angela Yu's course on Udemy titled: 100 Days of Code: The Complete Python Pro Bootcamp
